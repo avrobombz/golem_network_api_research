@@ -1,0 +1,122 @@
+{
+    "habitual-ant": {
+        "node_id": "0x62f4c3e718730556e0689abb06af1ed98421a6bd",
+        "earnings_total": 0.03,
+        "CPU_Threads": 7,
+        "Memory_GB": 339.948681640625
+    },
+    "Sovereign-Blackbear": {
+        "node_id": "0x41cdcb482596f456b198799004f3615b3379b05e",
+        "earnings_total": 1.02,
+        "CPU_Threads": 39,
+        "Memory_GB": 394.95915832519535
+    },
+    "Sovereign-Blackbird": {
+        "node_id": "0x21fd68fa082d801c9530ece6aca5f53ec16c81f1",
+        "earnings_total": 0.78,
+        "CPU_Threads": 39,
+        "Memory_GB": 100.0
+    },
+    "navarro": {
+        "node_id": "0x94b35675a317fb1ce904dfab7fa21b5b5ee8c732",
+        "earnings_total": 0.3,
+        "CPU_Threads": 11,
+        "Memory_GB": 800.0
+    },
+    "hbox": {
+        "node_id": "0x472edcc273360114985addb869bfd47997e48bd1",
+        "earnings_total": 0.22,
+        "CPU_Threads": 7,
+        "Memory_GB": 200.0
+    },
+    "considering-horses": {
+        "node_id": "0xe34ed994113e304c3872645858a61947d2e2526d",
+        "earnings_total": 0.01,
+        "CPU_Threads": 4,
+        "Memory_GB": 67.47610778808594
+    },
+    "joir-arch-1": {
+        "node_id": "0x97cf6bd9fb3f165f0af3a6e7903e939de6cacf09",
+        "earnings_total": 0.28,
+        "CPU_Threads": 3,
+        "Memory_GB": 8.079605102539062
+    },
+    "apollo-7": {
+        "node_id": "0x70f6a26acea08d949eec95d278054abf7c53309a",
+        "earnings_total": 0.06,
+        "CPU_Threads": 127,
+        "Memory_GB": 289.9122772216797
+    },
+    "TheStalion": {
+        "node_id": "0x95b6429fd1447b5a3de1ea34bd37fbeb202042eb",
+        "earnings_total": 0.05,
+        "CPU_Threads": 4,
+        "Memory_GB": 82.28518295288086
+    },
+    "luki2021": {
+        "node_id": "0x6159a984f6dc80e7adeec4939e9a4351f23fab44",
+        "earnings_total": 0.46,
+        "CPU_Threads": 15,
+        "Memory_GB": 66.84809875488281
+    },
+    "psychotic-slope": {
+        "node_id": "0xc1087ed0156acc39f5376eccef0d5e0132222ce7",
+        "earnings_total": 0.42,
+        "CPU_Threads": 2,
+        "Memory_GB": 70.0
+    },
+    "ollrzog": {
+        "node_id": "0xb762f1c50d46ecf2924b095e09cf56ea000d2fe2",
+        "earnings_total": 0.54,
+        "CPU_Threads": 16,
+        "Memory_GB": 103.78658771514893
+    },
+    "ostabyr": {
+        "node_id": "0xe73069769a9b8d163dd30961fd97f83dd0ed72e2",
+        "earnings_total": 0.64,
+        "CPU_Threads": 16,
+        "Memory_GB": 103.78658771514893
+    },
+    "rottazog": {
+        "node_id": "0xeb207dcf4147f799ac89e64444cb53064dffa7ec",
+        "earnings_total": 0.66,
+        "CPU_Threads": 4,
+        "Memory_GB": 28.01499981433153
+    },
+    "unhealthy-crayon": {
+        "node_id": "0x4ace80d6f12971063fee8453435bd38fae45109f",
+        "earnings_total": 0.13,
+        "CPU_Threads": 7,
+        "Memory_GB": 116.51580505371096
+    },
+    "rasta_golem": {
+        "node_id": "0xe6da3456a7812bf9d4c244c4b54bd3295151d5d3",
+        "earnings_total": 0.76,
+        "CPU_Threads": 26,
+        "Memory_GB": 365.5053070068359
+    },
+    "outrageous-steel": {
+        "node_id": "0x18b51362d06c53768f39d850e77e9659bb05ad22",
+        "earnings_total": 0.21,
+        "CPU_Threads": 3,
+        "Memory_GB": 18.51949157714844
+    },
+    "nibb13-main": {
+        "node_id": "0x84b25577292ee14d781de4d8f9cbdf03ca8355c7",
+        "earnings_total": 0.66,
+        "CPU_Threads": 4,
+        "Memory_GB": 265.6939697265625
+    },
+    "ryzen3900x": {
+        "node_id": "0x6d4fca101a1554bfadbf26edcf4b2b09e0f1e784",
+        "earnings_total": 68.94,
+        "CPU_Threads": 23,
+        "Memory_GB": 20.0
+    },
+    "nibb13": {
+        "node_id": "0x4ccb9d42866e95cbdf8342c2fee1ba63905f2e5b",
+        "earnings_total": 1.03,
+        "CPU_Threads": 12,
+        "Memory_GB": 2.4238052368164062
+    }
+}
